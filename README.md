@@ -1,2 +1,4 @@
-# projeto_cadastro_de_games
-Projeto com Login e Cadastro de Usuário e Games.
+#Sistema de Cadastro de Jogos
+> Status: quase pronto, apenas a parte de autentição está em falta.
+
+Sistema feito com usando HTML, CSS, JavaScript e Node, fazendo atilização de API própria. 
